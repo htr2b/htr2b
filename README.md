@@ -1,4 +1,4 @@
-## Hi there 👋 3rd Year Computer Engineering Student at Ankara Yıldırım Beyazıt University.
+##3rd Year Computer Engineering Student at Ankara Yıldırım Beyazıt University.
 Skilled in Java, C++, and Python, with a focus on software development and AI. Experienced in building web applications and model training. Always eager to learn new technologies and enhance my skills through hands-on projects.
 
 <!--
