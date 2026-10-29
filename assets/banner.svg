@@ -1,23 +1,48 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-labelledby="title desc">
-<title id="title">Onur Kahan — Computer Engineer</title>
-<desc id="desc">Web development, AI applications and practical tools.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="620" viewBox="0 0 1200 620" fill="none" role="img" aria-labelledby="title desc">
+<title id="title">Onur Kahan — developer workspace</title>
+<desc id="desc">A dark code editor and terminal introducing Onur Kahan, a computer engineer working on web development and AI applications.</desc>
 <defs>
-<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#0d1117"/><stop offset="1" stop-color="#152b35"/></linearGradient>
-<pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#8bd5e5" stroke-opacity=".07"/></pattern>
+<linearGradient id="bg" x1="0" y1="0" x2="1200" y2="620" gradientUnits="userSpaceOnUse"><stop stop-color="#0B101B"/><stop offset="1" stop-color="#101E2B"/></linearGradient>
+<linearGradient id="line"><stop stop-color="#54E8CE"/><stop offset="1" stop-color="#8E9FFF"/></linearGradient>
+<pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" stroke="#8CA3C5" stroke-opacity=".045"/></pattern>
 </defs>
-<rect width="1200" height="300" rx="20" fill="url(#bg)"/>
-<rect width="1200" height="300" rx="20" fill="url(#grid)"/>
-<rect x="58" y="57" width="5" height="186" rx="2.5" fill="#a3e635"/>
-<text x="90" y="86" fill="#a3e635" font-family="Segoe UI,Arial,sans-serif" font-size="15" letter-spacing="5">HTR2B / COMPUTER ENGINEER</text>
-<text x="86" y="157" fill="#f0f6fc" font-family="Segoe UI,Arial,sans-serif" font-size="62" font-weight="700" letter-spacing="-2">Onur Kahan</text>
-<text x="90" y="201" fill="#aabac8" font-family="Segoe UI,Arial,sans-serif" font-size="21">Web development · AI applications · Practical tools</text>
-<text x="90" y="244" fill="#64d8e8" font-family="Consolas,monospace" font-size="15">onurkahan.com</text>
-<g fill="none" stroke-linecap="round" stroke-linejoin="round">
-<rect x="878" y="55" width="240" height="190" rx="18" stroke="#64d8e8" stroke-opacity=".2"/>
-<path d="m956 115-36 35 36 35m84-70 36 35-36 35" stroke="#64d8e8" stroke-width="7"/>
-<path d="m1016 103-32 94" stroke="#a3e635" stroke-width="7"/>
+<rect width="1200" height="620" rx="20" fill="url(#bg)"/>
+<rect width="1200" height="620" rx="20" fill="url(#grid)"/>
+<g font-family="Segoe UI,Arial,sans-serif">
+<rect x="34" y="30" width="102" height="30" rx="7" fill="#54E8CE" fill-opacity=".09" stroke="#54E8CE" stroke-opacity=".24"/>
+<text x="51" y="51" fill="#54E8CE" font-size="16" font-weight="600" letter-spacing="2">HTR2B</text>
+<text x="1158" y="51" text-anchor="end" fill="#8FA4BE" font-size="15" letter-spacing="2">DEVELOPER WORKSPACE / 01</text>
+<text x="34" y="132" fill="#EEF4FF" font-size="64" font-weight="750" letter-spacing="-2">Onur Kahan<tspan fill="#54E8CE">.</tspan></text>
+<text x="37" y="172" fill="#A0B1CA" font-size="22">Computer Engineer <tspan fill="#41556F"> / </tspan> Web Development <tspan fill="#41556F"> / </tspan> AI Applications</text>
 </g>
-<circle cx="900" cy="77" r="4" fill="#a3e635"/>
-<circle cx="916" cy="77" r="4" fill="#64d8e8" opacity=".6"/>
-<circle cx="932" cy="77" r="4" fill="#64d8e8" opacity=".3"/>
+<rect x="34" y="204" width="1132" height="356" rx="12" fill="#0D1421" stroke="#26344B"/>
+<path d="M46 204H1154Q1166 204 1166 216V248H34V216Q34 204 46 204Z" fill="#172031"/>
+<circle cx="55" cy="226" r="5" fill="#FF6A80"/><circle cx="73" cy="226" r="5" fill="#EBCB6D"/><circle cx="91" cy="226" r="5" fill="#54E8CE"/>
+<text x="600" y="231" text-anchor="middle" font-family="Consolas,monospace" font-size="14" fill="#899BB5">htr2b — workspace</text>
+<path d="M690 248V560" stroke="#26344B"/>
+<rect x="34" y="248" width="656" height="40" fill="#111B2B"/>
+<path d="M34 248H239" stroke="#54E8CE" stroke-width="2"/>
+<g font-family="Consolas,monospace" font-size="17">
+<text x="56" y="274" fill="#8E9FFF">TS</text><text x="91" y="274" fill="#D3DDF0">developer.ts</text><text x="218" y="273" fill="#5E718F">×</text>
+<text x="714" y="274" fill="#D3DDF0" font-size="14" letter-spacing="2">TERMINAL</text><text x="1143" y="274" text-anchor="end" fill="#5E718F" font-size="14">bash</text>
+</g>
+<g font-family="Consolas,monospace" font-size="20">
+<g fill="#40516C" font-size="17" text-anchor="end"><text x="69" y="324">1</text><text x="69" y="359">2</text><text x="69" y="394">3</text><text x="69" y="429">4</text><text x="69" y="464">5</text><text x="69" y="499">6</text><text x="69" y="534">7</text></g>
+<text x="94" y="324"><tspan fill="#C49BFF">const </tspan><tspan fill="#82CFFF">developer</tspan><tspan fill="#C8D3E6"> = {</tspan></text>
+<text x="118" y="359"><tspan fill="#C8D3E6">name: </tspan><tspan fill="#B9E59D">"Onur Kahan"</tspan><tspan fill="#C8D3E6">,</tspan></text>
+<text x="118" y="394"><tspan fill="#C8D3E6">role: </tspan><tspan fill="#B9E59D">"Computer Engineer"</tspan><tspan fill="#C8D3E6">,</tspan></text>
+<text x="118" y="429"><tspan fill="#C8D3E6">builds: [</tspan><tspan fill="#B9E59D">"web apps"</tspan><tspan fill="#C8D3E6">, </tspan><tspan fill="#B9E59D">"APIs"</tspan><tspan fill="#C8D3E6">],</tspan></text>
+<text x="118" y="464"><tspan fill="#C8D3E6">exploring: </tspan><tspan fill="#B9E59D">"machine learning"</tspan><tspan fill="#C8D3E6">,</tspan></text>
+<text x="118" y="499"><tspan fill="#C8D3E6">website: </tspan><tspan fill="#B9E59D">"onurkahan.com"</tspan></text>
+<text x="94" y="534" fill="#C8D3E6">};</text>
+<text x="714" y="324"><tspan fill="#54E8CE">~ $ </tspan><tspan fill="#D5DEEE">whoami</tspan></text>
+<text x="714" y="357" fill="#8FA4BE">htr2b / Onur Kahan</text>
+<text x="714" y="408"><tspan fill="#54E8CE">~ $ </tspan><tspan fill="#D5DEEE">cat interests.txt</tspan></text>
+<text x="714" y="441" fill="#8FA4BE">web · speech AI · Linux</text>
+<text x="714" y="492"><tspan fill="#54E8CE">~ $ </tspan><tspan fill="#D5DEEE">build something useful</tspan></text>
+<rect x="714" y="513" width="11" height="20" fill="#54E8CE"><animate attributeName="opacity" values="1;1;0;0" dur="1.4s" repeatCount="indefinite"/></rect>
+</g>
+<path d="M34 585H1166" stroke="url(#line)" stroke-opacity=".5"/>
+<text x="35" y="607" font-family="Consolas,monospace" font-size="13" fill="#748AA7">REACT / NODE.JS / PYTHON</text>
+<text x="1165" y="607" text-anchor="end" font-family="Consolas,monospace" font-size="13" fill="#54E8CE">interfaces → APIs → useful tools</text>
 </svg>
