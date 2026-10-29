@@ -69,56 +69,6 @@ Version control, command-line workflows and desktop utilities.
 </tr>
 </table>
 
-### `03 / selected builds`
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-**01 &nbsp; / &nbsp; ECHONOTE**
-
-Record audio. Turn speech into text. Generate summaries.
-
-A React client paired with a Node.js API, using Supabase, Google Cloud and Cohere.
-
-[Frontend ↗](https://github.com/htr2b/speech-frontend) &nbsp; · &nbsp; [Backend ↗](https://github.com/htr2b/speech-backend)
-
-</td>
-<td width="50%" valign="top">
-
-**02 &nbsp; / &nbsp; LINUX AUTOSCROLL**
-
-A small fix for an everyday desktop interaction.
-
-Middle-button autoscrolling for X11, with speed controlled by pointer distance. Built with Python, pynput and xdotool.
-
-[Source code ↗](https://github.com/htr2b/linux-middle-click-autoscroll)
-
-</td>
-</tr>
-<tr>
-<td colspan="2" valign="top">
-
-**03 &nbsp; / &nbsp; PERSONAL PORTFOLIO**
-
-A responsive portfolio built with HTML, CSS and JavaScript, including structured data, a sitemap and technical SEO setup.
-
-[Source code ↗](https://github.com/htr2b/portfolio) &nbsp; · &nbsp; [Website ↗](https://onurkahan.com/)
-
-</td>
-</tr>
-</table>
-
-<details>
-<summary><b>04 / current interests</b></summary>
-
-<br />
-
-- Applying machine learning to real product features.
-- Building useful tools around speech and language.
-- Making web interfaces faster and easier to use.
-
-</details>
 
 <br />
 
