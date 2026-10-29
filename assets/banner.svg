@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-labelledby="title desc">
+<title id="title">Onur Kahan — Computer Engineer</title>
+<desc id="desc">Web development, AI applications and practical tools.</desc>
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#0d1117"/><stop offset="1" stop-color="#152b35"/></linearGradient>
+<pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#8bd5e5" stroke-opacity=".07"/></pattern>
+</defs>
+<rect width="1200" height="300" rx="20" fill="url(#bg)"/>
+<rect width="1200" height="300" rx="20" fill="url(#grid)"/>
+<rect x="58" y="57" width="5" height="186" rx="2.5" fill="#a3e635"/>
+<text x="90" y="86" fill="#a3e635" font-family="Segoe UI,Arial,sans-serif" font-size="15" letter-spacing="5">HTR2B / COMPUTER ENGINEER</text>
+<text x="86" y="157" fill="#f0f6fc" font-family="Segoe UI,Arial,sans-serif" font-size="62" font-weight="700" letter-spacing="-2">Onur Kahan</text>
+<text x="90" y="201" fill="#aabac8" font-family="Segoe UI,Arial,sans-serif" font-size="21">Web development · AI applications · Practical tools</text>
+<text x="90" y="244" fill="#64d8e8" font-family="Consolas,monospace" font-size="15">onurkahan.com</text>
+<g fill="none" stroke-linecap="round" stroke-linejoin="round">
+<rect x="878" y="55" width="240" height="190" rx="18" stroke="#64d8e8" stroke-opacity=".2"/>
+<path d="m956 115-36 35 36 35m84-70 36 35-36 35" stroke="#64d8e8" stroke-width="7"/>
+<path d="m1016 103-32 94" stroke="#a3e635" stroke-width="7"/>
+</g>
+<circle cx="900" cy="77" r="4" fill="#a3e635"/>
+<circle cx="916" cy="77" r="4" fill="#64d8e8" opacity=".6"/>
+<circle cx="932" cy="77" r="4" fill="#64d8e8" opacity=".3"/>
+</svg>
