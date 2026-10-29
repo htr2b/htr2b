@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/banner.svg" width="100%" alt="Onur Kahan's developer workspace — code editor and terminal" />
+<img src="https://raw.githubusercontent.com/htr2b/htr2b/aff0dc11f97e2f20fd80f73678fd77bc43f1d999/assets/banner.svg" width="100%" alt="Onur Kahan's developer workspace — code editor and terminal" />
 
 <br />
 
